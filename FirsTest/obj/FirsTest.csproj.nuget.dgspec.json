@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
+        "projectName": "FirsTest",
+        "projectPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
+        "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Duran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
