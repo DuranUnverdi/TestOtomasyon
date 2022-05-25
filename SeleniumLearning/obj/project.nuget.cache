@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/xmdVtIx2PsIq7AJGDySkxxKuLiFr15t9o0DbXff3RaSjNlie+cXCrYmO6W4wwmN9mLcWAkTJ1e/9PXSBfXeg==",
+  "dgSpecHash": "oSG7NW51XRU6NM0IF5rRzZM7QpxFC3v+Trrn1U5Y+901gA8FvESGlAvSo/tBn3+Z2DzXHAp6IqVZHdXBiMcV7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
+  "projectFilePath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\anglesharp\\0.16.1\\anglesharp.0.16.1.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

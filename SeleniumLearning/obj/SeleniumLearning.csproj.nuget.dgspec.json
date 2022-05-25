@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj": {}
+    "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj": {
+    "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectUniqueName": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
         "projectName": "SeleniumLearning",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectPath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\SeleniumLearning.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\obj\\",
+        "outputPath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\SeleniumLearning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

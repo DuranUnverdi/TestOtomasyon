@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
+      "projectUniqueName": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
       "projectName": "FirsTest",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
+      "projectPath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\obj\\",
+      "outputPath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
