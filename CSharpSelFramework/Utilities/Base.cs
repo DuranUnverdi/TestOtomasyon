@@ -5,6 +5,7 @@ using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Text;
 using WebDriverManager.DriverConfigs.Impl;
 
@@ -16,8 +17,12 @@ namespace CSharpSelFramework.Utilities
         [SetUp]
         public void StartBrowser()
         {
+
             //başlangıç tarayıcı
-            InitBrowser("Chrome");
+            //nuget üzerinden configurationmanager eklendi
+            //appsettingde başlangıç değeri olan broserı aldık ve initial ile başlangıç tarayıcısı yaptık
+            String browserName = ConfigurationManager.AppSettings["browser"];
+            InitBrowser(browserName);
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             driver.Manage().Window.Maximize();
             driver.Url = "https://rahulshettyacademy.com/loginpagePractise/";

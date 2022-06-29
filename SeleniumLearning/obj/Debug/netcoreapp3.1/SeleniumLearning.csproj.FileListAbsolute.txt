@@ -204,7 +204,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.AssemblyInfoInputs.cache
@@ -227,3 +226,16 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.pdb
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.dll.config

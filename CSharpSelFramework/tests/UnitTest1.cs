@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace CSharpSelFramework
+namespace CSharpSelFramework.tests
 {
     public class Tests
     {
@@ -24,8 +24,8 @@ namespace CSharpSelFramework
         [Test]
         public void EndToEndFlow()
         {
-            String[] expectedProducts = { "iphone X", "Blackberry" };
-            String[] actualProducts = new String[2];
+            string[] expectedProducts = { "iphone X", "Blackberry" };
+            string[] actualProducts = new string[2];
             driver.FindElement(By.Id("username")).SendKeys("rahulshettyacademy");
             driver.FindElement(By.Id("password")).SendKeys("learning");
             driver.FindElement(By.CssSelector("input[value='Sign In']")).Click();
@@ -63,7 +63,7 @@ namespace CSharpSelFramework
             //purchase butonunu tetikliyoruz
             driver.FindElement(By.CssSelector("[value='Purchase']")).Click();
             //alerte gelen succes ya da error mesajýný yakalamam
-            String confirText = driver.FindElement(By.CssSelector(".alert-success")).Text;
+            string confirText = driver.FindElement(By.CssSelector(".alert-success")).Text;
             StringAssert.Contains("Success", confirText);
         }
     }
