@@ -14,3 +14,4 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcore
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.pdb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.genruntimeconfig.cache
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll

@@ -210,7 +210,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.csprojAssemblyReference.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.AssemblyInfoInputs.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.AssemblyInfo.cs
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.csproj.CoreCompileInputs.cache
@@ -218,3 +217,7 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.pdb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.genruntimeconfig.cache
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.csproj.AssemblyReference.cache
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.GeneratedMSBuildEditorConfig.editorconfig
