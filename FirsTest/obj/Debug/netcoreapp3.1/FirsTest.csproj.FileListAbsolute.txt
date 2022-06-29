@@ -6,7 +6,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcore
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcoreapp3.1\FirsTest.pdb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcoreapp3.1\WebDriver.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.csprojAssemblyReference.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.AssemblyInfoInputs.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.AssemblyInfo.cs
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.csproj.CoreCompileInputs.cache
@@ -15,3 +14,5 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcore
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.pdb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.genruntimeconfig.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.csproj.AssemblyReference.cache
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\FirsTest\obj\Debug\netcoreapp3.1\FirsTest.GeneratedMSBuildEditorConfig.editorconfig

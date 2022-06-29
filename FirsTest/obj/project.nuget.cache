@@ -1,16 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aSlnyM0MymUzvA7A4qK5DZmWwVWjYHbaOHWrWUEQh2RWmIdWnut+e2Z+HEPsLIRfSk06Me+LRWWvXpUGX3YRGA==",
+  "dgSpecHash": "Bg0GpJQ1lJxCUFDEGjej7p73oThbTZT8NDvSRfIKNNxa9Ue6HLdlSBptsEOOBpx1ualzGtffVN8y2xoRNFp+hQ==",
   "success": true,
   "projectFilePath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\FirsTest\\FirsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Duran\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
-    "C:\\Users\\Duran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
-    "C:\\Users\\Duran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Duran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Duran\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\Duran\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }

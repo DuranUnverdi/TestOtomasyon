@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using CSharpSelFramework.Utilities;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
@@ -10,18 +11,9 @@ using WebDriverManager.DriverConfigs.Impl;
 
 namespace SeleniumLearning
 {
-   public class ShortWebTables
+   public class ShortWebTables:Base
     {
-        IWebDriver driver;
-        [SetUp]
-        public void StartBrowser()
-        {
-            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
-            driver = new ChromeDriver();
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
-            driver.Manage().Window.Maximize();
-            driver.Url = "https://rahulshettyacademy.com/seleniumPractise/#/offers";
-        }
+       
         [Test]
         public void ShortTable()
         {

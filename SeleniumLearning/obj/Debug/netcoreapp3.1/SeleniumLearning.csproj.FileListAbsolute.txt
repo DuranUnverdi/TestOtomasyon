@@ -119,7 +119,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\SeleniumLearning.pdb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\AngleSharp.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -138,7 +137,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\WebDriverManager.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -209,7 +207,6 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.AssemblyInfoInputs.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.AssemblyInfo.cs
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.csproj.CoreCompileInputs.cache
@@ -221,3 +218,12 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.csproj.AssemblyReference.cache
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\obj\Debug\netcoreapp3.1\SeleniumLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.deps.json
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.runtimeconfig.json
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.runtimeconfig.dev.json
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\testhost.exe
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.pdb
