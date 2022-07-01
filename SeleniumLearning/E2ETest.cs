@@ -1,4 +1,5 @@
-﻿using CSharpSelFramework.Utilities;
+﻿using CSharpSelFramework.pageObjects;
+using CSharpSelFramework.Utilities;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -20,11 +21,17 @@ namespace SeleniumLearning
         {
             String[] expectedProducts = { "iphone X", "Blackberry"};
             String[] actualProducts = new String[2];
-            driver.FindElement(By.Id("username")).SendKeys("rahulshettyacademy");
+
+            //LoginPage base repository gibi düşünebiliriz 
+            LoginPage loginPage = new LoginPage(getDriver());
+
+            loginPage.GetUserName().SendKeys("rahulshettyacademy");
             driver.FindElement(By.Id("password")).SendKeys("learning");
+            driver.FindElement(By.XPath("//div[@class='form-group'][5]/label/span/input")).Click();
             driver.FindElement(By.CssSelector("input[value='Sign In']")).Click();
             //driver.FindElement(By.XPath("//div[@class='form-group'][5]/label/span/input")).Click();
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(8));
+            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
             wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
           IList<IWebElement>products= driver.FindElements(By.TagName("app-card"));
             foreach (IWebElement product in products)

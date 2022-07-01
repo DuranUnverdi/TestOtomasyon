@@ -239,3 +239,4 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\CSharpSelFramework.dll.config
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\SeleniumLearning\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll

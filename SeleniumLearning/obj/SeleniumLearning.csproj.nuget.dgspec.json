@@ -44,6 +44,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[3.11.0, )"

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KaB5xi/Pi4DDa9uLK878A+kHBj/xaCaKVlbHP26wrZTkDKroMGhCmTje0V1tm/wAUNOWsB254EllTTI6ck+y0w==",
+  "dgSpecHash": "/mxvpxxa+88XkJZARGuQdae/OzSWq9H9ZGm92E57vYilnaqmzxoReHTI+VctaWEwR15PXHaoaatCQqFp0iyvfg==",
   "success": true,
   "projectFilePath": "D:\\masaüstü\\repos\\TestOtomasyon\\CSHARPTESTOTOMATION\\CSharpSelFramework\\CSharpSelFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Duran\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\Duran\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",

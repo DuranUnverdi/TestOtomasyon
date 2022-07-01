@@ -34,6 +34,22 @@
         }
       },
       "coverlet.collector/3.1.2": {},
+      "DotNetSeleniumExtras.PageObjects/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.3.0"
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core/4.3.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
       "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
         "dependencies": {
           "Selenium.WebDriver": "4.3.0"
@@ -580,6 +596,8 @@
       },
       "CSharpSelFramework/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects": "3.11.0",
+          "DotNetSeleniumExtras.PageObjects.Core": "4.3.0",
           "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
           "Microsoft.NET.Test.Sdk": "17.2.0",
           "NUnit": "3.13.3",
@@ -616,6 +634,20 @@
       "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
       "path": "coverlet.collector/3.1.2",
       "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DJCLQ3beq1fzqpeQ5jTZwDqmzbOD2Xxsb/jCyShYam88CNwGGn5aBBqu4LVSj0sy0Ai76OauQQncYlC48VvQUQ==",
+      "path": "dotnetseleniumextras.pageobjects/3.11.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects.Core/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZqD0Rx5On7NvcwAQbnNnnUy1czifVYin17TN4jnWCIKkKofBJLMK0a0aR/uQ7sF9atUlOKHJRLjs6mZQ9shbTw==",
+      "path": "dotnetseleniumextras.pageobjects.core/4.3.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512"
     },
     "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
       "type": "package",

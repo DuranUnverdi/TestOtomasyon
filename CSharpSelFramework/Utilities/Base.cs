@@ -21,11 +21,16 @@ namespace CSharpSelFramework.Utilities
             //başlangıç tarayıcı
             //nuget üzerinden configurationmanager eklendi
             //appsettingde başlangıç değeri olan broserı aldık ve initial ile başlangıç tarayıcısı yaptık
-            String browserName = ConfigurationManager.AppSettings["browser"];
-            InitBrowser(browserName);
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
-            driver.Manage().Window.Maximize();
-            driver.Url = "https://rahulshettyacademy.com/loginpagePractise/";
+           // String browserName = ConfigurationManager.AppSettings["browser"];
+            InitBrowser("Chrome");
+           driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+           driver.Manage().Window.Maximize();
+           driver.Url = "https://rahulshettyacademy.com/loginpagePractise/";
+        }
+
+        public IWebDriver getDriver()
+        {
+            return driver;
         }
         //Tarayıcı seçme
         public void InitBrowser(string browserName)

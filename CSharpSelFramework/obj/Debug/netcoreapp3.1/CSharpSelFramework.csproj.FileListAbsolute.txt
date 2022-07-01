@@ -124,3 +124,4 @@ D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\CSharpSelFramework\bin\Deb
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\CSharpSelFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\CSharpSelFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\CSharpSelFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\masaüstü\repos\TestOtomasyon\CSHARPTESTOTOMATION\CSharpSelFramework\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
