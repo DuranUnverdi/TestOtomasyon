@@ -28,12 +28,13 @@ namespace CSharpSelFramework.pageObjects
         [FindsBy(How = How.CssSelector, Using = "input[value='Sign In']")]
         private IWebElement signInButton;
 
-        public void validLogin(string user,string pass)
+        public ProductsPage validLogin(string user,string pass)
         {
             username.SendKeys(user);
             password.SendKeys(pass);
             checkbox.Click();
             signInButton.Click();
+            return new ProductsPage(driver);
         }
         public IWebElement GetUserName()
         {

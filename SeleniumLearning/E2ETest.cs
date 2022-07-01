@@ -24,15 +24,14 @@ namespace SeleniumLearning
 
             //LoginPage base repository gibi düşünebiliriz 
             LoginPage loginPage = new LoginPage(getDriver());
-            loginPage.validLogin("rahulshettyacademy","learning");
+            ProductsPage productPage=loginPage.validLogin("rahulshettyacademy","learning");
+            productPage.waitForPageDisplay();
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(8));
-            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
-            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
-          IList<IWebElement>products= driver.FindElements(By.TagName("app-card"));
+            IList<IWebElement> products = productPage.getCards();
             foreach (IWebElement product in products)
             {
                 //expectedProducts ın içinde yer alan alanlar card da var mı 
-                if(expectedProducts.Contains(product.FindElement(By.CssSelector(".card-title a")).Text))
+                if (expectedProducts.Contains(product.FindElement(productPage.getCardTitle()).Text)) 
                 {
                     //click card
                     product.FindElement(By.CssSelector(".card-footer button")).Click();
