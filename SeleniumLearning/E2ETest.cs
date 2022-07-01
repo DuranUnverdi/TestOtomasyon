@@ -24,12 +24,7 @@ namespace SeleniumLearning
 
             //LoginPage base repository gibi düşünebiliriz 
             LoginPage loginPage = new LoginPage(getDriver());
-
-            loginPage.GetUserName().SendKeys("rahulshettyacademy");
-            driver.FindElement(By.Id("password")).SendKeys("learning");
-            driver.FindElement(By.XPath("//div[@class='form-group'][5]/label/span/input")).Click();
-            driver.FindElement(By.CssSelector("input[value='Sign In']")).Click();
-            //driver.FindElement(By.XPath("//div[@class='form-group'][5]/label/span/input")).Click();
+            loginPage.validLogin("rahulshettyacademy","learning");
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(8));
             wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
             wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.PartialLinkText("Checkout")));
