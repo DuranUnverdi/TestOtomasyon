@@ -34,15 +34,15 @@ namespace SeleniumLearning
                 if (expectedProducts.Contains(product.FindElement(productPage.getCardTitle()).Text)) 
                 {
                     //click card
-                    product.FindElement(By.CssSelector(".card-footer button")).Click();
+                    product.FindElement(productPage.addToChartButton()).Click();
 
                 }
                TestContext.Progress.WriteLine(product.FindElement(By.CssSelector(".card-title a")).Text);
 
             }//sepete eklenen ürünler ile beklenen sonuç eşleşiyomu
-            driver.FindElement(By.PartialLinkText("Checkout")).Click();
-         IList<IWebElement> chechoutCards=driver.FindElements(By.CssSelector("h4 a"));
-            for(int i = 0; i < chechoutCards.Count; i++)
+           CheckoutPage checkOutPage= productPage.checkOut();
+            IList<IWebElement> chechoutCards = checkOutPage.getCards();
+            for (int i = 0; i < chechoutCards.Count; i++)
             {
                actualProducts[i]= chechoutCards[i].Text;
             }
