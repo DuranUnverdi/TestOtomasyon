@@ -17,14 +17,17 @@ namespace SeleniumLearning
     {
  
         [Test]
-        public void EndToEndFlow()
+        [TestCase("rahulshettyacademy", "learning")]//doğru değerler 
+        [TestCase("rahulshetty", "learning")]//yanlış derğerler
+        //testcaseden gelen parametre değerleri username ve passwordun içini dolduruyo
+        public void EndToEndFlow(String username,String password)
         {
             String[] expectedProducts = { "iphone X", "Blackberry"};
             String[] actualProducts = new String[2];
 
             //LoginPage base repository gibi düşünebiliriz 
             LoginPage loginPage = new LoginPage(getDriver());
-            ProductsPage productPage=loginPage.validLogin("rahulshettyacademy","learning");
+            ProductsPage productPage=loginPage.validLogin(username,password);
             productPage.waitForPageDisplay();
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(8));
             IList<IWebElement> products = productPage.getCards();
