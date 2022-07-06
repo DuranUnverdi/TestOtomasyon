@@ -16,10 +16,12 @@ namespace SeleniumLearning
   public class E2ETest:Base
     {
  
-        [Test]
-        [TestCase("rahulshettyacademy", "learning")]//doğru değerler 
-        [TestCase("rahulshetty", "learning")]//yanlış derğerler
+        
+        //bu şekilde vermek yerine değerleri fonksiyon ile yazıp testcasesource ile yolunu gösteriyoruz
+        //[TestCase("rahulshettyacademy", "learning")]//doğru değerler 
+        //[TestCase("rahulshetty", "learning")]//yanlış derğerler
         //testcaseden gelen parametre değerleri username ve passwordun içini dolduruyo
+       [Test,TestCaseSource("AddTestDataConfig")]
         public void EndToEndFlow(String username,String password)
         {
             String[] expectedProducts = { "iphone X", "Blackberry"};
@@ -63,6 +65,12 @@ namespace SeleniumLearning
             //alerte gelen succes ya da error mesajını yakalamam
             String confirText=driver.FindElement(By.CssSelector(".alert-success")).Text;
             StringAssert.Contains("Success", confirText);
+        }
+        public static IEnumerable<TestCaseData> AddTestDataConfig()
+        {
+            yield return new TestCaseData("rahulshettyacademy", "learning");
+            yield return new TestCaseData("rahulshettya", "learning");
+            yield return new TestCaseData("rahulshettyacademy", "learni");
         }
     }
 }
