@@ -52,7 +52,12 @@ namespace CSharpSelFramework.Utilities
                     driver = new EdgeDriver();
                     break;
 
+           
             }
+        }
+        public static JsonReader getDataParser()
+        {
+            return new JsonReader();
         }
         [TearDown]
         public void AfterTest()

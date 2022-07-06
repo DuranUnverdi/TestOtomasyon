@@ -22,9 +22,9 @@ namespace SeleniumLearning
         //[TestCase("rahulshetty", "learning")]//yanlış derğerler
         //testcaseden gelen parametre değerleri username ve passwordun içini dolduruyo
        [Test,TestCaseSource("AddTestDataConfig")]
-        public void EndToEndFlow(String username,String password)
+        public void EndToEndFlow(String username,String password, String[] expectedProducts)
         {
-            String[] expectedProducts = { "iphone X", "Blackberry"};
+            //String[] expectedProducts = { "iphone X", "Blackberry"};
             String[] actualProducts = new String[2];
 
             //LoginPage base repository gibi düşünebiliriz 
@@ -68,9 +68,9 @@ namespace SeleniumLearning
         }
         public static IEnumerable<TestCaseData> AddTestDataConfig()
         {
-            yield return new TestCaseData("rahulshettyacademy", "learning");
-            yield return new TestCaseData("rahulshettya", "learning");
-            yield return new TestCaseData("rahulshettyacademy", "learni");
+            yield return new TestCaseData(getDataParser().extractData("username"), getDataParser().extractData("password"), getDataParser().extractDataArray("products"));
+            yield return new TestCaseData(getDataParser().extractData("username"), getDataParser().extractData("password"), getDataParser().extractDataArray("products"));
+            yield return new TestCaseData(getDataParser().extractData("username_wrong"), getDataParser().extractData("password_wrong"), getDataParser().extractDataArray("products"));
         }
     }
 }
